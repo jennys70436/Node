@@ -4,7 +4,8 @@
   "description": "",
   "main": "all.js",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "mime": "^2.5.2"
   },
   "devDependencies": {},
   "scripts": {
